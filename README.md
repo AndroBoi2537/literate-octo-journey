@@ -1,3 +1,3 @@
 # literate-octo-journey
 
-<h1>Rookie-responsive-webpage</h1>
+Don't take it seriously, just a novice responsive webpage
